@@ -2,11 +2,11 @@
 
 A Power BI report that provides interactive visualizations of sales, profit, quantity sold and delivery performance for a fictional “Super Store” retail dataset. It enables managers and analysts to quickly assess business performance across regions, segments, product categories and time horizons, and even includes a short-term forecast for future sales.
 
-📌 Short Description / Purpose
+## 📌 Short Description / Purpose
 
 The Super Store Sales Dashboard consolidates historical sales data (2019–2020) and a 15‑day sales forecast into a single, interactive interface. It allows users to explore metrics such as total sales, profit, quantity sold and average delivery days across multiple dimensions (customer segment, region, payment mode, product category and sub‑category). An additional forecast page projects sales for the next two weeks, helping business users prepare for imminent changes in demand.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Power BI Desktop – Primary platform for building interactive visualizations.
 
@@ -18,17 +18,16 @@ Data Modeling – Relationships defined between order dates, product categories,
 
 File Format – Report is delivered as a .pbit template for reuse; screenshots included are .png.
 
-📚 Data Source
+## 📚 Data Source
 
 Dataset Source: The report uses a standard “Super Store” dataset commonly found in analytics tutorials (e.g., Kaggle). It includes fictional orders, product information and sales transactions across the United States.
 
-💡 Features / Highlights
-
-Business Problem
+### Business Problem
 
 Retail managers often rely on static spreadsheets to analyze sales performance, limiting their ability to filter, compare or drill down on the fly. Decision makers need a dynamic dashboard that highlights top‑selling products, regional performance and profit drivers, while also providing short‑term forecasts for demand planning
 
-Goal of the Dashboard
+
+### Goal of the Dashboard
 
 Provide an interactive view of sales, profit and quantity metrics across segments, regions, payment modes and product categories.
 
@@ -39,7 +38,7 @@ Offer a 15‑day sales forecast to inform short‑term inventory and staffing de
 Allow non‑technical users to drill down into the data easily and identify high‑performing states, categories and sub‑categories
 
 
-Walkthrough of Key Visuals
+### Walkthrough of Key Visuals
 
 Top KPIs – Cards for Total Sales (≈1.6 M), Quantity Sold (≈22 K), Total Profit (≈175 K) and Average Delivery Days (≈4), updating with filters
 
@@ -73,7 +72,8 @@ Payment Strategy Optimization – Shows that COD transactions dominate; encourag
 
 Short‑Term Forecasting – The 15‑day forecast provides a proactive view of upcoming demand, supporting better stock management and staffing decisions.
 
-🗒️ Usage Tips
+
+### 🗒️ Usage Tips
 
 Filter by Region or Segment to see localized performance.
 
