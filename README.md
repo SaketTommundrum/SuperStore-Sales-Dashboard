@@ -3,9 +3,11 @@
 A Power BI report that provides interactive visualizations of sales, profit, quantity sold and delivery performance for a fictional “Super Store” retail dataset. It enables managers and analysts to quickly assess business performance across regions, segments, product categories and time horizons, and even includes a short-term forecast for future sales.
 
 📌 Short Description / Purpose
+
 The Super Store Sales Dashboard consolidates historical sales data (2019–2020) and a 15‑day sales forecast into a single, interactive interface. It allows users to explore metrics such as total sales, profit, quantity sold and average delivery days across multiple dimensions (customer segment, region, payment mode, product category and sub‑category). An additional forecast page projects sales for the next two weeks, helping business users prepare for imminent changes in demand.
 
 🛠️ Tech Stack
+
 Power BI Desktop – Primary platform for building interactive visualizations.
 
 Power Query – Employed for data transformation and cleaning prior to modeling.
@@ -17,15 +19,17 @@ Data Modeling – Relationships defined between order dates, product categories,
 File Format – Report is delivered as a .pbit template for reuse; screenshots included are .png.
 
 📚 Data Source
-Dataset Source: The report uses a standard “Super Store” dataset commonly found in analytics tutorials (e.g., Kaggle and Codebasics). It includes fictional orders, product information and sales transactions across the United States.
 
-Image Credits: All background colors and simple icons used in the dashboard were generated within Power BI. No external artwork was used.
+Dataset Source: The report uses a standard “Super Store” dataset commonly found in analytics tutorials (e.g., Kaggle). It includes fictional orders, product information and sales transactions across the United States.
 
 💡 Features / Highlights
+
 Business Problem
+
 Retail managers often rely on static spreadsheets to analyze sales performance, limiting their ability to filter, compare or drill down on the fly. Decision makers need a dynamic dashboard that highlights top‑selling products, regional performance and profit drivers, while also providing short‑term forecasts for demand planning
 
 Goal of the Dashboard
+
 Provide an interactive view of sales, profit and quantity metrics across segments, regions, payment modes and product categories.
 
 Enable year‑over‑year comparison of monthly sales and profit to reveal seasonality and growth trends.
@@ -36,6 +40,7 @@ Allow non‑technical users to drill down into the data easily and identify high
 
 
 Walkthrough of Key Visuals
+
 Top KPIs – Cards for Total Sales (≈1.6 M), Quantity Sold (≈22 K), Total Profit (≈175 K) and Average Delivery Days (≈4), updating with filters
 
 Sales by Segment – Donut chart showing Consumer, Corporate and Home Office contributions
@@ -57,6 +62,7 @@ Forecast Page – A time‑series chart projecting sales for the next 15 days wi
 Dynamic Slicers – Region selectors (Central, East, South, West) update all visuals simultaneously for focused analysis
 
 Business Impact & Insights
+
 Performance Monitoring – Enables leadership to track sales and profit in real time, identify seasonal patterns and benchmark YoY performance.
 
 Targeted Marketing – Highlights high‑value segments (Consumer) and regions (West and East), guiding promotional efforts. Underperforming regions or segments can be targeted for improvement
@@ -68,6 +74,7 @@ Payment Strategy Optimization – Shows that COD transactions dominate; encourag
 Short‑Term Forecasting – The 15‑day forecast provides a proactive view of upcoming demand, supporting better stock management and staffing decisions.
 
 🗒️ Usage Tips
+
 Filter by Region or Segment to see localized performance.
 
 Hover over line charts to inspect monthly values.
