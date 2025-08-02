@@ -85,5 +85,6 @@ Switch to the Forecast page via the bottom navigation to review upcoming sales p
 
 Use this dashboard as a centralized tool to make data‑driven decisions across operations, marketing and finance.
 
-
-
+### Dashboard view
+Forecast Page.png
+Insights Page.png
