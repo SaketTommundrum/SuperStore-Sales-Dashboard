@@ -1,4 +1,4 @@
-# SuperStore-Sales-Dashboard
+# SuperStore Sales Dashboard
 
 A Power BI report that provides interactive visualizations of sales, profit, quantity sold and delivery performance for a fictional “Super Store” retail dataset. It enables managers and analysts to quickly assess business performance across regions, segments, product categories and time horizons, and even includes a short-term forecast for future sales.
 
