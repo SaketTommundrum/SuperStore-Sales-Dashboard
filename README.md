@@ -86,5 +86,5 @@ Switch to the Forecast page via the bottom navigation to review upcoming sales p
 Use this dashboard as a centralized tool to make data‑driven decisions across operations, marketing and finance.
 
 ### Dashboard view
-Forecast Page.png
+https://github.com/SaketTommundrum/SuperStore-Sales-Dashboard/blob/a2c38523f433ab5dad8174ca6cd4cd02615c0cae/Forecast%20Page.png
 Insights Page.png
